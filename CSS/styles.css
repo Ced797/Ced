@@ -1,0 +1,579 @@
+body{
+	background-color:rgb(0,0,0); 
+
+
+	
+	
+}
+	
+@font-face {
+    font-family: 'yukarimobileregular';
+    src: url('yukarimobil-webfont.eot');
+    src: url('yukarimobil-webfont.eot?#iefix') format('embedded-opentype'),
+         url('yukarimobil-webfont.woff2') format('woff2'),
+         url('yukarimobil-webfont.woff') format('woff'),
+         url('Fonts/yukarimobil-webfont.ttf') format('truetype'),
+         url('yukarimobil-webfont.svg#yukarimobileregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+h1{
+	
+float:right;	
+margin-right:590px;
+font-family: 'yukarimobileregular',Impact,Arial Black,Serif;
+
+letter-spacing: 9px;
+color:rgb(255,2,11);	
+text-shadow: 2px 2px 1px rgb(255,255,255);
+font-size:80px;
+
+width:990px;
+text-align:center;
+font-style:italic;
+
+}
+article{
+	
+font-size:20px;	
+}	
+a{
+color:rgb(143, 51, 255);
+	
+}
+a:hover{
+	
+color:rgb(143, 51, 255);	
+
+	
+	
+}	
+hr{
+	height:20px;
+	width:3px;
+}
+	
+#centrallst{
+	
+	display:flex;
+	
+	
+}	
+ul li{
+	
+list-style-type:none;
+	margin:1.4px;
+	color:rgb(143, 51, 255);
+	font-size:20px;
+	
+
+}
+a: visited{
+
+color:rgb(255,2,11);
+
+}	
+.hmeart{
+
+marign-left:110px;
+height:120px;
+width:705px;
+float:left;
+font-size:18px;
+
+padding:6px 6px 6px 20px;	
+color:rgb(255,2,11);	
+}	
+
+span{
+	
+font-size:40px;	
+font-family: 'yukarimobileregular',Impact,Arial Black,Serif;
+letter-spacing:2px;
+	
+}
+
+.hmeart2{
+marign-left:410px;
+height:233px;
+width:765px;
+color:rgb(255,255,255);
+letter-spacing: 1px;	
+color:rgb(255,2,11);/*#F2EB03;*/
+font-size:18px;
+padding:6px 6px 6px 20px;	
+float:right;
+
+}	
+#hmeart4{
+	
+	height:233px;
+width:765px;
+color:rgb(255,255,255);
+letter-spacing: 1px;	
+color:rgb(255,2,11);/*#F2EB03;*/
+margin-left:460px;
+padding:6px 6px 6px 20px;	
+
+font-size:18px;
+	
+
+	
+}
+/*************************************************************history page starts********************************************************************************* */
+#timeline{
+
+height:120px;
+width:705px;
+font-size:18px;
+margin: 30px 0px 150px 70px;
+color:rgb(255,255,255)/*#F2EB03*/;
+float:right;
+padding:6px 6px 6px 20px;	
+color:rgb(255,2,11);	
+float:left;
+}
+
+h2{
+float:left;	
+margin-left:370px;
+font-family: 'yukarimobileregular',Impact,Arial Black,Serif;
+letter-spacing: 4px;
+color:rgb(255,2,11);	
+text-shadow: 2px 2px 5px rgb(0,0,0);
+font-size:50px;
+border: 1px;
+
+
+text-align:center;
+font-style:italic;
+	
+}	
+#gameCreation{
+height:120px;
+width:705px;
+font-size:18px;
+margin: 30px 0px 150px 70px;
+color:rgb(255,255,255)/*#F2EB03*/;
+float:right;
+padding:6px 6px 6px 20px;	
+color:rgb(255,2,11);	
+float:right;
+}
+#gameCreation2{
+height:120px;
+width:705px;
+font-size:18px;
+margin: 0px 70px 150px 0px;
+color:rgb(255,255,255)/*#F2EB03*/;
+float:right;
+padding:6px 6px 6px 20px;	
+color:rgb(255,2,11);	
+float:left;
+}
+#history1{
+	
+	height:120px;
+width:705px;
+font-size:18px;
+font-size:18px;
+float:right;
+padding:6px 6px 20px 0px;	
+color:rgb(255,2,11);	
+float:right;
+	
+	
+}
+
+/*************************************************************history page ends********************************************************************************* */
+
+
+/*************************************************************media page starts********************************************************************************* */
+
+
+.mediart{
+height:300px;
+width: 700px;	
+
+letter-spacing: 1px;	
+margin: 0px 0px 0px 0px;
+padding:6px 6px 6px 20px;	
+color:rgb(255,2,11);
+
+float:left;
+}	
+
+#mediart2{
+	
+height:300px;
+width: 700px;	
+letter-spacing: 1px;	
+margin:0px 90px 0px 0px;
+padding:6px 6px 6px 20px;	
+color:rgb(255,2,11);
+float:right;
+
+}	
+#mediart3{
+	
+height:300px;
+width: 700px;	
+letter-spacing: 1px;	
+margin: 0px 0px 0px 0px;
+padding:6px 6px 6px 20px;	
+
+
+color:rgb(255,2,11);
+}	
+#mediart4{
+	
+height:300px;
+width: 700px;	
+letter-spacing: 1px;	
+margin: 0px 0px 0px 0px;
+padding:6px 6px 6px 20px;	
+color:rgb(255,2,11);
+float:right;
+}
+#cyberpunks{
+	
+float:left; 
+	margin-right:15px;
+}
+
+
+#mediaPic3{
+
+margin-right:500px;
+
+}	
+/*************************************************************media page ends********************************************************************************* */
+/*************************************************************2077 page starts ******************************************************************************** */
+
+#art2077{
+	width: 700px;	
+color:rgb(255,2,11);
+	height:118px;
+width:465px;
+padding:6px 14px 6px 20px;	
+
+font-size:18px;
+
+}
+#art20772{
+font-size:18px;
+	height:110px;
+width:465px;
+padding:6px 6px 6px 20px;	
+	float:right;
+color:rgb(255,2,11);
+margin-:800px;
+	
+}
+#art20773{
+	
+	height:110px;
+width:465px;
+padding:6px 6px 6px 20px;	
+	float:left;
+color:rgb(255,2,11);
+margin-right:800px;
+
+
+font-size:18px;
+
+}
+#pic2077{
+	
+margin-left:620px;
+margin-bottom:40px;
+float:left;
+
+}
+
+/*****************************************************************************2077 page ends *********************************************************************** */
+/******************************************************************************fan page starts************************************************************************ */
+
+#fanart{
+	
+margin: 0px 120px 140px 0px;	
+height:120px;
+width:705px;
+float:left;
+
+font-size:20px;
+padding:6px 6px 6px 20px;	
+color:rgb(255,2,11);	
+font-size:18px;
+
+}	
+#fanart2{
+	margin: 0px 200px 80px 0px;	
+height:120px;
+width:705px;
+float:right;
+
+font-size:18px;
+padding:6px 6px 6px 20px;	
+color:rgb(255,2,11);
+}
+
+#fanpic{
+	
+
+	margin-right:10px;
+}
+#fanPic2{
+	
+	
+	
+}
+#fanFig2{
+	
+margin-left:800px;
+margin-top:60px;	
+	
+}
+#fanpic3{
+	float:right;
+	margin-right:100px;
+	margin-top:100px;
+
+}	
+
+#lineFan{
+    display: block;
+   
+	width:1480px;
+    border: 0;
+    border-top: 5px solid red;
+
+   
+}
+
+/************************************************************************************Outside page////////////////////////////////////////////////////////////////////// */
+#out{
+	float:left;
+}	
+#artOut{
+	
+	marign-left:110px;
+height:120px;
+width:705px;
+float:left;
+
+font-size:18px;
+padding:6px 6px 6px 20px;	
+color:rgb(255,2,11);
+	
+}
+#artOut2{
+
+height:120px;
+width:705px;
+float:left;
+margin:120px 0px 0px 0px;
+font-size:18px;
+padding:6px 6px 6px 20px;	
+color:rgb(255,2,11);
+	
+}
+#artOut3{
+
+
+height:120px;
+width:705px;
+float:left;
+margin:120px 0px 0px 0px;
+letter-spacing:2px;
+padding:6px 6px 6px 20px;	
+color:rgb(255,2,11);
+	
+}
+#artOut4{
+font-size:18px;
+height:120px;
+width:705px;
+float:right;
+margin:300px 0px 0px 0px;
+letter-spacing:2px;
+padding:6px 6px 6px 20px;	
+color:rgb(255,2,11);
+	
+}
+#artOut5{
+font-size:18px;
+height:120px;
+width:705px;
+float:left;
+margin:300px 0px 0px 0px;
+letter-spacing:2px;
+padding:6px 6px 6px 20px;	
+color:rgb(255,2,11);
+	
+}
+/*/////////////////////////////////////////////////////////////////////////////////2020 page ///////////////////////////////////////////////////////////////////////////////// */
+
+#art2020{
+font-size:18px;
+height:120px;
+width:705px;
+float:left;
+margin:0px 0px 0px 0px;
+
+padding:6px 6px 6px 20px;	
+color:rgb(255,2,11);
+	
+}
+#art20202{
+font-size:18px;
+height:120px;
+width:705px;
+float:left;
+margin:0px 0px 0px 0px;
+
+padding:6px 6px 6px 20px;	
+color:rgb(255,2,11);
+	
+}
+
+#art20203{
+color:rgb(255,2,11);
+	height:118px;
+width:465px;
+padding:6px 14px 6px 20px;	
+margin:190px 0px 0px 450px;
+float:left;
+font-size:18px;
+
+}
+#art20204{
+color:rgb(255,2,11);
+	height:118px;
+width:465px;
+padding:6px 14px 6px 20px;	
+margin:190px 450px 0px 0px;
+float:left;
+font-size:18px;
+
+}
+
+#img2020{
+
+
+float:right;
+margin-top:120px;
+margin-right:120px;
+
+
+}
+#img20203{
+
+
+
+float:left;
+margin-top:120px;
+
+}
+
+
+/* ///////////////////////////////////////////////////////////////// Ins /////////////////////////////////////////////////////////////// */
+
+#insh1{
+float:left;	
+	
+}
+
+#ins{
+	color:rgb(255,2,11);
+	height:118px;
+width:465px;
+padding:6px 14px 6px 20px;	
+margin:0px 0px 0px 0px;
+float:left;
+font-size:18px;
+	
+	
+}
+#ins2{
+	
+	color:rgb(255,2,11);
+	height:118px;
+width:465px;
+padding:6px 14px 10px 20px;	
+margin:110px 0px 0px 0px;
+float:right;
+font-size:18px;
+	
+}
+#ins3{
+	color:rgb(255,2,11);
+	height:118px;
+width:465px;
+padding:6px 14px 6px 20px;	
+margin:30px 400px 0px 0px;
+float:left;
+font-size:18px;	
+	
+	
+}
+
+/*//////////////////////////////////////////////////////////////footer ////////////////////////////////////////////////////////////////////// */
+footer{
+float:left;		
+
+
+
+}
+#none{
+background-color:red;
+width:700px;
+height:40px;
+	display:flex;
+
+}
+#social{
+	
+	margin-left:80px;
+}	
+#mediaFoot{
+	margin-top:300px;
+float:right;	
+	
+	
+}
+#outFoot{
+	
+	margin-top:500px;
+	
+}
+	
+#foot202{
+	
+	float:right;
+	
+}
+#histFoot{
+	
+	float:left;
+	margin-top:500px;
+	
+	
+}
+
+#fanFoot{
+	
+float:right;
+margin-top:130px;	
+margin-left:500px;	
+	
+	
+}
+#insFoot{
+	
+	float:right;
+	margin-top:400px;
+	
+}	
