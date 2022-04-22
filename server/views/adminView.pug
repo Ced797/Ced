@@ -1,0 +1,16 @@
+head
+	title Admin View
+	script(src='/scripts/filter.js')
+h1 Admin View
+br
+br
+label Filter
+input#sort(type='text' onkeyup='myFunction()' name='')
+br
+br
+ul#articleList
+	each article in articles
+		li
+			a(href='/editArticle/'+ article.id) #{article.title}
+		br
+		br
